@@ -20,6 +20,7 @@ Languages:
 
 Databases:
 - Mongo
+- GraphiSQL
 - MySQL
 - Redis
 
