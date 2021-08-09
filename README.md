@@ -16,7 +16,7 @@ https://gyazo.com/a6a017d4425d3606e891438c292f3154
 
 Languages:
 - Java
-- CSS (rarely using)
+- Kotlin
 
 Databases:
 - Mongo
