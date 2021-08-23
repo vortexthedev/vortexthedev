@@ -24,5 +24,3 @@ Databases:
 - MySQL
 - Redis
 
-Plans:
-- Started learning C++ (barely)
