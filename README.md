@@ -15,7 +15,6 @@ sketch - https://gyazo.com/8e1cc35df04c889a24cda4069cf171a4
 
 Languages:
 - Java
-- Kotlin
 
 Databases:
 - Mongo
