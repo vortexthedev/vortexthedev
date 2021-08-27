@@ -15,7 +15,7 @@ Databases:
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 Libraries: 
-![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
+![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-FF9A00?style=flat-square&logo=adobefonts&logoColor=white)
 
 
