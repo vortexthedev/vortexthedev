@@ -1,6 +1,6 @@
 🌃 Vortex
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xVorttex)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xVorttex&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 My main portfolio:
 - VortexSpigot (Highly optimized 1.8.8 TacoSpigot)
