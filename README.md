@@ -9,7 +9,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-![Intellij](https://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=intellij&logoColor=white)
+![Intellij](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=intellij&logoColor=white)
 
 ## Contacts 💭
 * Telegram - @vortex21
