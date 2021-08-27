@@ -7,3 +7,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-e9f542?style=flat-square&logo=mysql&logoColor=black)
 ![Redis](https://img.shields.io/badge/-Redis-c94250?style=flat-square&logo=redis&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-e3ab42?style=flat-square&logo=apachetomcat&logoColor=white)
+
+## Stats 📊
+<img src="https://github-readme-stats.vercel.app/api?username=xVorttex&show_icons=true&count_private=true">
