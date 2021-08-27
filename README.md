@@ -4,17 +4,17 @@
 ![Profile views](https://gpvc.arturio.dev/xVorttex)
 
 
-Languages
+Languages: 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-Databases
+Databases: 
 ![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-Libraries
+Libraries: 
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-FF9A00?style=flat-square&logo=adobefonts&logoColor=white)
 
