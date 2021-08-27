@@ -1,4 +1,4 @@
-# Hi, I'm Vortex 
+# Hi, I'm Vortex ツ
 
 ## Stack💻
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
