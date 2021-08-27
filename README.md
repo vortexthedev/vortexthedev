@@ -1,9 +1,5 @@
 🌃 Vortex
 
-About me:
-Hi, I am a Java developer from Lithuania, but I speak Russian and English.
-I never participate in projects without motivation and the necessary knowledge from the team.
-
 My main portfolio:
 - VortexSpigot (Highly optimized 1.8.8 TacoSpigot)
 - VortexPearls (The best enderpearl plugin)
