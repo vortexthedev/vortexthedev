@@ -1,7 +1,7 @@
 🌃 Vortex
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-964b00?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ffbf00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ffbf00?style=flat-square&logo=java&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-eff542?style=flat-square&logo=mysql&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=git&logoColor=white) 
 
