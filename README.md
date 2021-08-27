@@ -1,4 +1,4 @@
-# Hi, I'm Vortex ツ ![Profile views](https://gpvc.arturio.dev/xVorttex)
+# Hi, I'm Vortex ツ
 
 ## Stack💻
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
@@ -15,4 +15,5 @@
 
 ## Stats 📊
 ![Vortex's GitHub stats](https://github-readme-stats.vercel.app/api/?username=xVorttex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVorttex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVorttex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)\
+![Profile views](https://gpvc.arturio.dev/xVorttex)
