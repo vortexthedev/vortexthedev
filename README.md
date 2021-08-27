@@ -1,5 +1,7 @@
 🌃 Vortex
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xVorttex)](https://github.com/anuraghazra/github-readme-stats)
+
 My main portfolio:
 - VortexSpigot (Highly optimized 1.8.8 TacoSpigot)
 - VortexPearls (The best enderpearl plugin)
