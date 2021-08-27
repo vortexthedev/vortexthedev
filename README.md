@@ -5,6 +5,7 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDb-3fcf30?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-e9f542?style=flat-square&logo=mysql&logoColor=black)
 ![Redis](https://img.shields.io/badge/-Redis-c94250?style=flat-square&logo=redis&logoColor=white)
+![GraphiSQL](https://img.shields.io/badge/-GraphiSQL-c9426f?style=flat-square&logo=graphisql&logoColor=white)
 
 
 My main portfolio:
@@ -15,10 +16,4 @@ My main portfolio:
 - I worked with JavaFX, JSwing and can easily make a custom GUI.
 sketch - https://gyazo.com/8e1cc35df04c889a24cda4069cf171a4
 - I worked with Tomcat and can easily make any web backend part.
-
-Databases:
-- Mongo
-- GraphiSQL
-- MySQL
-- Redis
 
