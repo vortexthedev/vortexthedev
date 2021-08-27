@@ -1,4 +1,4 @@
-# Hello ＼(＾▽＾)／
+# Hello
 
 ## Stack💻
 ![Kotlin](https://img.shields.io/badge/-Kotlin-964b00?style=flat-square&logo=kotlin&logoColor=white)
