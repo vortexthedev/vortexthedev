@@ -1,5 +1,10 @@
 🌃 Vortex
 
+![Kotlin](https://img.shields.io/badge/-Kotlin-964b00?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ffbf00?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-ffbf00?style=flat-square&logo=mysql&logoColor=yellow)
+![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=git&logoColor=white) 
+
 My main portfolio:
 - VortexSpigot (Highly optimized 1.8.8 TacoSpigot)
 - VortexPearls (The best enderpearl plugin)
@@ -8,10 +13,6 @@ My main portfolio:
 - I worked with JavaFX, JSwing and can easily make a custom GUI.
 sketch - https://gyazo.com/8e1cc35df04c889a24cda4069cf171a4
 - I worked with Tomcat and can easily make any web backend part.
-
-Languages:
-- Java
-- Kotlin
 
 Databases:
 - Mongo
