@@ -7,8 +7,6 @@
 Languages: 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=node.js&logoColor=white)
 
 Databases: 
 ![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=mongodb&logoColor=white)
