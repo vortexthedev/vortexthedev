@@ -1,5 +1,3 @@
-# Hi, I'm Vortex ツ
-
 ## Stack💻
 ![Profile views](https://gpvc.arturio.dev/xVorttex)
 
