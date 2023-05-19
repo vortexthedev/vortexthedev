@@ -1,6 +1,6 @@
 ## Stack💻
 ![Profile views](https://gpvc.arturio.dev/xVorttex)
-* 3+ years Experienced Java Developer
+* Java Developer
 * Spring, Hibernate, JavaFX
 * Redis/MongoDB/MySQL
 
