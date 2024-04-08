@@ -5,4 +5,4 @@
 
 ## Contacts 💭
 * Telegram - @vortex21
-* Discord - vortex#2252 
+* Discord - vortex2252 
