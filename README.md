@@ -1,7 +1,7 @@
 ## Stack💻
 * Java Developer (3+ years)
 * Spring, Hibernate, JavaFX
-* Redis/MongoDB/MySQL
+* Redis/MongoDB/SQL
 
 ## Contacts 💭
 * Telegram - @vortex21
