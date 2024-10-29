@@ -1,8 +1,8 @@
 ## Stack💻
-* Java Developer (3+ years)
+* Java Developer (4+ years)
 * Spring, Hibernate, JavaFX
-* Redis/MongoDB/SQL
+* VK, Telegram, Discord Bots
+* MySQL, PostgreSQL, MongoDB, Redis
 
 ## Contacts 💭
 * Telegram - @vortex21
-* Discord - vortex2252 
