@@ -1,5 +1,5 @@
 ## Stack💻
-* Java Developer (4+ years)
+* Java Developer (6 years)
 * Spring, Hibernate, JavaFX
 * VK, Telegram, Discord API Bots
 * Bukkit, NMS (Minecraft)
